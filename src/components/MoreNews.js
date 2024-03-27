@@ -32,7 +32,7 @@ function MoreNews() {
           </div>
           <div className="website-entire">
             <li className="website-li layer1div">
-              <a href="https://layer1-mkt-webiste.vercel.app">
+              <a href="https://layer0-mkt-website.vercel.app">
                 <img src={layer0} className="layer1logo" alt="Layer 1 (LMC)" />
                 <p className="textCardMoreWebsites">Layer 0</p>
               </a>

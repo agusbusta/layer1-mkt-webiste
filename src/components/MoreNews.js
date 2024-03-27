@@ -14,7 +14,7 @@ function MoreNews() {
         <ul className="website-list">
           <div className="website-group">
             <li className="website-li">
-              <a href="#">
+              <a href="https://eth-mkt-webiste.vercel.app">
                 <img
                   src={ethereum}
                   className="otherwebsiteimg"
@@ -24,7 +24,7 @@ function MoreNews() {
               </a>
             </li>
             <li className="website-li">
-              <a href="#">
+              <a href="https://btc-mkt-website.vercel.app">
                 <img src={bitcoin} className="otherwebsiteimg" alt="Bitcoin" />
                 <p className="textCardMoreWebsites"> Bitcoin</p>
               </a>
@@ -32,7 +32,7 @@ function MoreNews() {
           </div>
           <div className="website-entire">
             <li className="website-li layer1div">
-              <a href="#">
+              <a href="https://layer1-mkt-webiste.vercel.app">
                 <img src={layer0} className="layer1logo" alt="Layer 1 (LMC)" />
                 <p className="textCardMoreWebsites">Layer 0</p>
               </a>
